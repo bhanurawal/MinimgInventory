@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-09-14",
+  "days": 180,
+  "parts": 20,
+  "rows": 3600,
+  "scenarios": [
+    "baseline usage",
+    "maintenance spikes",
+    "condition multiplier",
+    "seasonality",
+    "anomalies"
+  ]
+}
